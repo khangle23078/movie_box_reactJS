@@ -1,0 +1,11 @@
+@import "./../../sass/_variables.scss";
+
+.header {
+  height: 80px;
+  background-color: $primary-color;
+
+  &__container {
+    max-width: 980px;
+    margin: 0 auto;
+  }
+}
